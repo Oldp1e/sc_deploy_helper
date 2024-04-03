@@ -6,6 +6,9 @@ Esta extensão foi desenvolvida por Samuel Pereira para facilitar a experiência
 
 A extensão Desmarcar Checkboxes Publicador atua especificamente no ambiente do Publicador, uma plataforma específica identificada pela URL "https://gt-scriptcase.gtplan.net/". Quando o usuário navega nesta plataforma, a extensão automaticamente desmarca duas checkboxes se forem detectadas na tela.
 
+![image](https://github.com/Oldp1e/sc_deploy_helper/assets/28911186/51a6f514-bcf0-4cc7-b9d2-61c5f0c49ebe)
+
+
 ## Como Usar
 
 1. Clone ou baixe este repositório para o seu computador.
