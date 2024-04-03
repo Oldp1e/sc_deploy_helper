@@ -20,7 +20,7 @@ Contribuições são bem-vindas! Se você quiser melhorar esta extensão, sinta-
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato com Samuel Pereira em [seu endereço de e-mail](mailto:exemplo@email.com).
+Para qualquer dúvida ou sugestão, entre em contato com Samuel Pereira em [seu endereço de e-mail](oldp1e.professional.contact@gmail.com.com).
 
 ---
 
