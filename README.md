@@ -16,6 +16,8 @@ A extensão Desmarcar Checkboxes Publicador atua especificamente no ambiente do 
 3. Ative o modo de desenvolvedor, geralmente localizado no canto superior direito da página de extensões.
 4. Clique no botão "Carregar sem compactação" e selecione a pasta onde você baixou/clonou a extensão.
 5. A extensão será carregada e estará pronta para uso.
+## Exemplo
+![extensao_pratica_teste](https://github.com/Oldp1e/sc_deploy_helper/assets/28911186/1075d9f2-c7c8-4c7f-9790-0ae538e09c76)
 
 ## Contribuição
 
